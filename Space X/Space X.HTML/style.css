@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    /* background-color: aqua; */
+     font-family: "Orbitron",sans-serif
+}
+h2{
+    text-shadow: 0 0 4px black;
+ 
+}
+.main{
+    background-image: url(resorces/space.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: #82a5ca;
+    margin: 10px 0 40px 0;
+
+}
+h3{
+    text-align: center;
+    color: #82a5ca;
+}
+span{
+    border-bottom: 4px solid white;
+}
+.btn{
+    margin-bottom: 25px;
+     padding: 10px 15px;
+    font-weight: 600;
+    font-size: 15px;
+    font-family: inherit;
+    border-radius: 5px;
+    border: none;
+}
+.btn:hover{
+    cursor: pointer;
+}
+.logo{
+    width: 150px;
+}
